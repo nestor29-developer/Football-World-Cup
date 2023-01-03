@@ -1,0 +1,5 @@
+.container {
+  padding: 0 7rem;
+  display: flex;
+  align-items: inherit;
+}

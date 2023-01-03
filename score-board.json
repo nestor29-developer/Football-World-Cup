@@ -1,0 +1,136 @@
+{
+  "matches": [
+    {
+      "homeTeam": {
+        "matchNumber": "1",
+        "orderNumber": 0,
+        "name": "Mexico",
+        "finalScore": 2,
+        "image": "/icons/mexico-icon.jpeg",
+        "started": false,
+        "updated": false,
+        "removed": false
+      },
+      "awayTeam": {
+        "matchNumber": "1",
+        "orderNumber": 0,
+        "name": "Argentina",
+        "finalScore": 3,
+        "image": "/icons/argentina-icon.jpeg",
+        "started": false,
+        "updated": false,
+        "removed": false
+      }
+    },
+    {
+      "homeTeam": {
+        "matchNumber": "2",
+        "orderNumber": 0,
+        "name": "Germany",
+        "finalScore": 5,
+        "image": "/icons/germany-icon.jpeg",
+        "started": false,
+        "updated": false,
+        "removed": false
+      },
+      "awayTeam": {
+        "matchNumber": "2",
+        "orderNumber": 0,
+        "name": "Colombia",
+        "finalScore": 1,
+        "image": "/icons/colombia-icon.jpeg",
+        "started": false,
+        "updated": false,
+        "removed": false
+      }
+    },
+    {
+      "homeTeam": {
+        "matchNumber": "3",
+        "orderNumber": 0,
+        "name": "Peru",
+        "finalScore": 3,
+        "image": "/icons/peru-icon.jpeg",
+        "started": false,
+        "updated": false,
+        "removed": false
+      },
+      "awayTeam": {
+        "matchNumber": "3",
+        "orderNumber": 0,
+        "name": "Chile",
+        "finalScore": 2,
+        "image": "/icons/chile-icon.jpeg",
+        "started": false,
+        "updated": false,
+        "removed": false
+      }
+    },
+    {
+      "homeTeam": {
+        "matchNumber": "4",
+        "orderNumber": 0,
+        "name": "France",
+        "finalScore": 7,
+        "image": "/icons/france-icon.jpeg",
+        "started": false,
+        "updated": false,
+        "removed": false
+      },
+      "awayTeam": {
+        "matchNumber": "4",
+        "orderNumber": 0,
+        "name": "Brazil",
+        "finalScore": 3,
+        "image": "/icons/brazil-icon.jpeg",
+        "started": false,
+        "updated": false,
+        "removed": false
+      }
+    },
+    {
+      "homeTeam": {
+        "matchNumber": "5",
+        "orderNumber": 0,
+        "name": "Portugal",
+        "finalScore": 3,
+        "image": "/icons/portugal-icon.jpeg",
+        "started": false,
+        "updated": false,
+        "removed": false
+      },
+      "awayTeam": {
+        "matchNumber": "5",
+        "orderNumber": 0,
+        "name": "Ecuador",
+        "finalScore": 5,
+        "image": "/icons/ecuador-icon.jpeg",
+        "started": false,
+        "updated": false,
+        "removed": false
+      }
+    },
+    {
+      "homeTeam": {
+        "matchNumber": "6",
+        "orderNumber": 0,
+        "name": "Japan",
+        "finalScore": 2,
+        "image": "/icons/japan-icon.jpeg",
+        "started": false,
+        "updated": false,
+        "removed": false
+      },
+      "awayTeam": {
+        "matchNumber": "6",
+        "orderNumber": 0,
+        "name": "Spain",
+        "finalScore": 6,
+        "image": "/icons/spain-icon.jpeg",
+        "started": false,
+        "updated": false,
+        "removed": false
+      }
+    }
+  ]
+}
